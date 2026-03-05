@@ -3,7 +3,7 @@ export const ARTISTS = [
     id: 'bruno',
     name: 'Bruno',
     specialties: ['Traços Finos', 'Minimalismo', 'Escritas'],
-    image: 'https://picsum.photos/seed/bruno_ink/400/500',
+    image: 'Bruno.webp',
     whatsapp: 'https://wa.me/5511000000000',
     instagram: '#'
   },
