@@ -24,7 +24,7 @@ jobs:
       - name: Checkout do código
         uses: actions/checkout@v4
         
-- name: Configurar Node.js
+      - name: Configurar Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
@@ -41,7 +41,7 @@ jobs:
       - name: Fazer upload da pasta dist
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './dist' # Esta é a pasta que o Vite cria após o build
+          path: './dist'
           
       - name: Fazer o Deploy
         id: deployment
