@@ -7,7 +7,7 @@ const Hero: React.FC = () => {
       {/* Background Image with Overlay */}
       <div className="absolute inset-0 z-0">
         <img 
-          src="https://picsum.photos/seed/dark_tattoo_studio/1920/1080?grayscale" 
+          src="Estudio.webp" 
           alt="Santa Ink Studio Background" 
           className="w-full h-full object-cover opacity-40"
         />
