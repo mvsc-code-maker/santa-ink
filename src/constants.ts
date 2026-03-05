@@ -4,16 +4,16 @@ export const ARTISTS = [
     name: 'Bruno',
     specialties: ['Traços Finos', 'Minimalismo', 'Escritas'],
     image: 'Bruno.webp',
-    whatsapp: 'https://wa.me/5511000000000',
-    instagram: '#'
+    whatsapp: 'https://wa.me/5511980519891',
+    instagram: 'https://www.instagram.com/brunotattoosp'
   },
   {
     id: 'jeferson',
     name: 'Jeferson',
     specialties: ['Realismo', 'Blackwork', 'Fechamentos'],
-    image: 'https://picsum.photos/seed/jeferson_ink/400/500',
-    whatsapp: 'https://wa.me/5511000000000',
-    instagram: '#'
+    image: 'jeferson.webp',
+    whatsapp: 'https://wa.me/5511961193515',
+    instagram: 'https://www.instagram.com/jefetattoo'
   }
 ];
 
@@ -21,9 +21,9 @@ export const PIERCER = {
   name: 'Vinicius',
   description: 'Trabalhamos exclusivamente com Titânio Grau Implante e Ouro 18k. Procedimentos assépticos seguindo rigorosamente as normas da ANVISA.',
   services: ['Perfurações básicas e avançadas', 'Atualização de joias', 'Tratamento de granulomas'],
-  whatsapp: 'https://wa.me/5511000000000',
-  instagram: '#',
-  image: 'https://picsum.photos/seed/piercing_vinicius/400/500'
+  whatsapp: 'https://wa.me/5511996991026',
+  instagram: 'https://www.instagram.com/piercer.degaspare',
+  image: 'Vinicius.webp'
 };
 
 export const FAQS = [
@@ -42,12 +42,12 @@ export const FAQS = [
 ];
 
 export const GALLERY_IMAGES = [
-  'https://picsum.photos/seed/tattoo1/600/600',
-  'https://picsum.photos/seed/tattoo2/600/600',
-  'https://picsum.photos/seed/tattoo3/600/600',
-  'https://picsum.photos/seed/tattoo4/600/600',
-  'https://picsum.photos/seed/tattoo5/600/600',
-  'https://picsum.photos/seed/tattoo6/600/600',
-  'https://picsum.photos/seed/tattoo7/600/600',
-  'https://picsum.photos/seed/tattoo8/600/600',
+  'tatto01.webp',
+  'tatto02.webp',
+  'tatto03.webp',
+  'tatto04.webp',
+  'tatto05.webp',
+  'tatto06.webp',
+  'piercing01.webp',
+  'piercing02.webp',
 ];
